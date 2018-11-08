@@ -1,3 +1,5 @@
+## A feature added in React 16.3 and 16.6: Context API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
